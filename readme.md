@@ -71,7 +71,7 @@ var myDropzone = new Dropzone("div#myId", { url: "/file/post"});
 // jQuery
 $("div#myId").dropzone({ url: "/file/post" });
 ```
-* <span style="color: red">注意：如果你不是使用一个表单元素,别忘了指定一个url选项,因为Dropzone不知道上传到那里。</span> *
+* <span style="color: red">注意：如果你不是使用一个表单元素,别忘了指定一个url选项,因为Dropzone不知道上传到那里。</span> 
 
 #### 服务器端实现
 Dropzone 不提供的服务器端文件处理的代码,但是文件上传的方式是和简单的表单文件上传是相同的。比如普通的表单上传是这样：
