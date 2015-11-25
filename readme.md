@@ -1,9 +1,3 @@
-title: DropzoneJS 使用指南
-date: 2015-11-25 10:41:13
-categories: JavaScript
-tags: [JavaScript, DropzoneJS]
----
-
 官方文档：[http://www.dropzonejs.com/](http://www.dropzonejs.com/)
 Github: [https://github.com/enyo/dropzone](https://github.com/enyo/dropzone)
 
