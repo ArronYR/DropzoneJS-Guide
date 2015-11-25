@@ -1,4 +1,5 @@
 官方文档：[http://www.dropzonejs.com/](http://www.dropzonejs.com/)
+
 Github: [https://github.com/enyo/dropzone](https://github.com/enyo/dropzone)
 
 > DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
@@ -70,7 +71,7 @@ var myDropzone = new Dropzone("div#myId", { url: "/file/post"});
 // jQuery
 $("div#myId").dropzone({ url: "/file/post" });
 ```
-** <span style="color: red">注意：如果你不是使用一个表单元素,别忘了指定一个url选项,因为Dropzone不知道上传到那里。</span> **
+* <span style="color: red">注意：如果你不是使用一个表单元素,别忘了指定一个url选项,因为Dropzone不知道上传到那里。</span> *
 
 #### 服务器端实现
 Dropzone 不提供的服务器端文件处理的代码,但是文件上传的方式是和简单的表单文件上传是相同的。比如普通的表单上传是这样：
@@ -681,5 +682,7 @@ Dropzone.forElement("#my-dropzone"); // Providing a selector string.
 
 ## About me
 博客: [http://blog.helloarron.com](http://blog.helloarron.com)
+
 Github: [https://github.com/ArronYR](https://github.com/ArronYR)
+
 Email: yangyun4814@gmail.com
